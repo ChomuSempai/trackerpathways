@@ -183,6 +183,7 @@
       "OnlyEncodes+": { "days": 0, "reqs": "Prometheus+", "active": "Yes", "updated": "Aug 2025" },
       "Orpheus": { "days": 0, "reqs": "Prometheus+", "active": "Yes", "updated": "Nov 2025" },
       "PassThePopcorn": { "days": 730, "reqs": "Titan+, 2 years, 200 uploads", "active": "Yes", "updated": "Dec 2025" },
+      "HDBits": { "days": 730, "reqs": "Titan+, 2 years, 200 uploads", "active": "Yes", "updated": "Dec 2025" },
       "ReelFliX": { "days": 0, "reqs": "Prometheus+", "active": "Yes", "updated": "Aug 2025" },
       "seedpool": { "days": 0, "reqs": "1TiB seedsize", "active": "Yes", "updated": "Aug 2025" },
       "Unwalled": { "days": 0, "reqs": "Harmonia+, 5 seeded uploads", "active": "Yes", "updated": "Aug 2025" }
